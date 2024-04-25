@@ -161,10 +161,16 @@ void autonomous(void const *argument) {
     if (mode == 2) {
       forward = false;
       while (distance < 125) {
-        pc.printf("too close");
         m1.speed(0);
         m2.speed(0);
+        wait(0.1);
+
+        m1.speed(0.5);
+        m2.speed(0.5);
         wait(0.3);
+
+        m1.speed(0);
+        m2.speed(0);
 
         int rand_num = generateRandom(-1, 1);
         m1.speed(0.5 * rand_num);
@@ -176,7 +182,7 @@ void autonomous(void const *argument) {
 
         m1.speed(0);
         m2.speed(0);
-        wait(0.3);
+        wait(0.1);
       }
       m1.speed(-0.5);
       m2.speed(-0.5);

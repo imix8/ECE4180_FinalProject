@@ -8,11 +8,11 @@ int main() {
   while (1) {
     for (float p = 0; p <= 1.0; p += 0.1) {
       myservo = p;
-      wait(0.2);
+      wait(0.1);
     }
     for (float p = 1.0; p >= 0; p -= 0.1) {
       myservo = p;
-      wait(0.2);
+      wait(0.1);
     }
   }
 }
