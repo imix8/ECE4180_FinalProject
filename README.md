@@ -15,6 +15,10 @@ Please [click here](youtube.com) for our video demonstration.
 
 ## Pictures
 
+### Front:
+
+Markup : ![Front](http://via.placeholder.com/200x150)
+
 ## Required Components
 
 ### Hardware:
