@@ -15,9 +15,17 @@ Please [click here](youtube.com) for our video demonstration.
 
 ## Pictures
 
+### Top:
+
+![Front](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/IMG_7470.jpg)
+
 ### Front:
 
-Markup : ![Front](http://via.placeholder.com/200x150)
+![Front](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/IMG_7472.jpg)
+
+### Back:
+
+![Back](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/IMG_7471.jpg)
 
 ## Required Components
 
