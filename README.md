@@ -38,15 +38,15 @@ Please [click here](https://youtu.be/LskHHatkHdY) for our video demonstration.
 - [1x Adafruit VL53L0X ToF sensor](https://www.adafruit.com/product/3317)
 - [2x DC Barrel Jack Adapter](https://www.sparkfun.com/products/10811)
 - [1x RGB LED](https://www.sparkfun.com/products/105)
-- 3x 330 Ohm Resistor
+- [3x 330 Ohm Resistor](https://www.sparkfun.com/products/8377)
 - [1x Adafruit Bluefruit BLE UART friend module](https://os.mbed.com/users/4180_1/notebook/adafruit-bluefruit-le-uart-friend---bluetooth-low-/)
 - [1x Shadow Chassis](https://www.sparkfun.com/products/13301)
 - [1x Dual H-Bridge](https://www.sparkfun.com/products/14450)
 - [2x Gearmotor - 140 RPM](https://www.sparkfun.com/products/13302)
 - [2x Wheel - 65mm](https://www.sparkfun.com/products/13259)
-- [Wires](https://www.sparkfun.com/products/124)
+- [Assorted Wires](https://www.sparkfun.com/products/124)
 - [2x Battery Holder](https://www.sparkfun.com/products/12083)
-- 8x AA Batteries
+- [8x AA Batteries](https://www.sparkfun.com/products/15201)
 
 ### Software:
 
@@ -63,7 +63,7 @@ Provide details about the project's schematic:
 
 ## Code
 
-As seen from the parts list and schematic above, we used two MBEDS in our project: the main MBED controls the driving and autonomous features of our robot, while the other controls the servo. Please click [here](https://github.com/imix8/ECE4180_FinalProject/blob/main/main_mbed/main.cpp) for the main MBED's code and [here](https://github.com/imix8/ECE4180_FinalProject/blob/main/servo_mbed/main.cpp) for the code used in the secondary MBED.
+As seen from the parts list and schematic above, we used two MBEDS in our project: the main MBED controls the driving and autonomous features of our robot, while the other controls the servo. Please click [here](https://github.com/imix8/ECE4180_FinalProject/blob/main/main_mbed/main.cpp) for the main MBED's code and [here](https://github.com/imix8/ECE4180_FinalProject/blob/main/servo_mbed/main.cpp) for the code used in the secondary MBED. Feel free to explore the folders as well which contain all of the libraries used, but the files linked previously in this section are the ones that we developed ourselves.
 
 ## Instructions
 
