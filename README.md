@@ -2,8 +2,8 @@
 
 ## Team Members
 
-- **Ivan Mix**
-- **Nikola Rogers**
+- **Ivan Mix (Section A)**
+- **Nikola Rogers (Section A)**
 
 ## Introduction
 
