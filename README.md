@@ -2,10 +2,10 @@
 
 ## Team Members
 
-- **Ivan Mix (Section A)**
-- **Nikola Rogers (Section A)**
+- **Ivan Mix (Section A)**: imix3@gatech.edu
+- **Nikola Rogers (Section A)**: nrogers39@gatech.edu
 
-## Introduction
+## Project Idea
 
 In this project, our team has developed a versatile robot that operates under dual control modes: manual and autonomous. Equipped with a Bluetooth interface, the robot can be manually controlled through a dedicated app, allowing users to adjust its speed and direction. A real-time LiDAR sensor continuously monitors the distance to potential obstacles, enabling the robot to halt or navigate around barriers automatically. In its autonomous mode, the robot employs random directional changes to avoid collisions, enriching its capability to maneuver in complex environments. Additionally, the robot features an RGB LED system that indicates its operational status and proximity warnings.
 
@@ -50,11 +50,11 @@ Please [click here](https://youtu.be/LskHHatkHdY) for our video demonstration.
 
 ### Software:
 
-- [arm KIEL Studio](https://studio.keil.arm.com/auth/login)
+- [arm KEIL Studio](https://studio.keil.arm.com/auth/login)
 - Github
-- Blueruit Connect app for [iOS](https://apps.apple.com/app/id830125974) or [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&pcampaignid=web_share)
+- Bluefruit Connect app for [iOS](https://apps.apple.com/app/id830125974) or [Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&pcampaignid=web_share)
 
-## Schematic
+## Wiring Schematic
 
 ![Wiring Schematic](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/Wiring%20Schematic.png)
 
@@ -67,10 +67,3 @@ As seen from the parts list and schematic above, we used two MBEDS in our projec
 ## Instructions
 
 Now that you have acquired all of the parts you need, viewed our schematic, and read through our code you have everything you need to start building the robot! We reccomend that you start by connecting all of the components using our schematic, but don't worry too much about cable management at first. Then, once everything is wired you can take the bin files we have prepared (one for the [main MBED](https://github.com/imix8/ECE4180_FinalProject/blob/main/main_mbed.LPC1768.bin) and another for the [secondary MBED](https://github.com/imix8/ECE4180_FinalProject/blob/main/servo_mbed.LPC1768.bin)) and place them onto each of the MBEDs. Finally, install the Bluefruit Connect app on your phone in order to control the robot. You are now ready to use our dual-mode robot!
-
-## Contact
-
-For more information, contact:
-
-- **Ivan Mix**: imix3@gatech.edu
-- **Nikola Rogers**: nrogers39@gatech.edu
