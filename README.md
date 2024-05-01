@@ -56,7 +56,7 @@ Please [click here](https://youtu.be/LskHHatkHdY) for our video demonstration.
 
 ## Schematic
 
-![Wiring Schematic](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/WiringSchematic.png)
+![Wiring Schematic](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/Wiring%20Schematic.png)
 
 Please note that any pins not shown in the wiring schematic are unused and should not be connected to anything. Also please make sure to connect all ground rails in the breadboards together as failure to do so can cause issues.
 
