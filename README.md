@@ -26,7 +26,7 @@ Please [click here](https://youtu.be/LskHHatkHdY) for our video demonstration.
 ### Back:
 
 ![Back](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/IMG_7471.jpg)
-![Bottom](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/IMG_1810.jpg)
+![Bottom](https://github.com/imix8/ECE4180_FinalProject/blob/main/Pictures/IMG_1810.JPG)
 
 ## Required Components
 
